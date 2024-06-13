@@ -1,0 +1,41 @@
+body{
+    background-image:url("letter.jpg");
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+   
+}
+h1 {
+    margin-bottom: 80px;
+    font-size: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.page-wrapper {
+    background-color: #B2D7DA; 
+    padding: 20px; 
+    border: 2px solid #ccc; /* Border around the page wrapper */
+    border-radius: 10px; /* Rounded corners for the wrapper */
+    width: 80%; /* Width of the wrapper */
+    margin: 0 auto; /* Center the wrapper horizontally */
+}
+
+/* Styling for the content inside the page wrapper */
+.page-content {
+    font-family: Arial, sans-serif; /* Font family for the content */
+    color: #333; /* Text color */
+    line-height: 1.5; /* Line height */
+    height: 65%;
+    width: 80%;
+    align-items: center;
+    
+}
+.prag{
+    font-size: 1.5rem;
+    color: black;
+    align-items: center;
+}
+
+
