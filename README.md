@@ -1,1 +1,1 @@
-https://harshita0007.github.io/brithday/
+https://harshita0007.github.io/Brithday/
